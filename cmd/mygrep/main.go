@@ -149,6 +149,7 @@ func main() {
 	sendUDPPacket(receivingAddress)
 }
 
+
 func sendRequest(conn *net.UDPConn, addr string, request []byte) {
 	udpAddr, err := net.ResolveUDPAddr("udp", addr)
 
