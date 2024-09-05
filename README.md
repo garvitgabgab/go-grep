@@ -8,6 +8,7 @@ This is a starting point for Go solutions to the
 strings. [`grep`](https://en.wikipedia.org/wiki/Grep) is a CLI tool for
 searching using Regexes.
 
+
 In this challenge you'll build your own implementation of `grep`. Along the way
 we'll learn about Regex syntax, how parsers/lexers work, and how regular
 expressions are evaluated.
